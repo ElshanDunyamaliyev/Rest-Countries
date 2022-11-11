@@ -1,0 +1,25 @@
+.back-button-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.backbutton {
+  padding: 20px;
+  border: 1px solid gray;
+  width: 200px;
+  cursor: pointer;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.link {
+  color: inherit;
+}
+
+.link:hover {
+  text-decoration: none;
+}
